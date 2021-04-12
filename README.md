@@ -35,11 +35,11 @@
 
 ## Author 2
 
-👤 **Baraka Mukelenga**
+👤 **Bhagyashree Patra**
 
-- GitHub: [@githubhandle](https://github.com/barackm)
-- Twitter: [@twitterhandle](https://twitter.com/BarackMukelenga)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/baraka-mukelenga/)
+- GitHub: [@githubhandle](https://github.com/Vagyasri)
+- Twitter: [@twitterhandle](https://twitter.com/Lucky86074644)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhagyashree-patra-029bb059/)
 
 ## 🤝 Contributing
 
