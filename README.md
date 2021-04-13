@@ -45,7 +45,8 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Vagyasri/Project3-newsweek/issues).
+Feel free to check the [issues page](https://github.com/Vagyasri/Project3-newsweek/issues), contribute to the Project by creating an issue.
+
 
 ## Show your support
 
