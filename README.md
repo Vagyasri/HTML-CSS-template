@@ -32,9 +32,9 @@
 
 👤 **Bhagyashree Patra**
 
-- GitHub: [@githubhandle](https://github.com/Vagyasri)
-- Twitter: [@twitterhandle](https://twitter.com/Lucky86074644)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhagyashree-patra-029bb059/)
+- GitHub: [@Vagyasri](https://github.com/Vagyasri)
+- Twitter: [@Vagyasri](https://twitter.com/Vagyasri)
+- LinkedIn: [Bhagyashree Patra](https://www.linkedin.com/in/bhagyashree-patra-029bb059/)
 
 ## Author 2
 
@@ -43,6 +43,28 @@
 - GitHub: [@githubhandle](https://github.com/Vagyasri)
 - Twitter: [@twitterhandle](https://twitter.com/Lucky86074644)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhagyashree-patra-029bb059/)
+
+## Getting Started
+
+### Prerequisites:
+
+- Web browser
+- Code Editor
+- Live Server Extension
+
+### Cloning the repo to your local system (If you already have git, installed in your system):
+
+- [Copy this link](https://vagyasri.github.io/Events-Directory/)
+- Open your terminal or command line
+- Run "git clone [Paste this link](https://vagyasri.github.io/Events-Directory/)"
+- Open the folder with your code editor
+- Now You can edit the code and check the changes in the browser using Live Server
+
+### Check linter errors:
+
+- Install npm
+- For HTML: Run npx hint .
+- For CSS: Run npx stylelint “**/*.css”
 
 ## 🤝 Contributing
 
