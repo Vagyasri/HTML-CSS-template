@@ -64,6 +64,11 @@
 - Run `npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x`
 - Copy [`.stylelintrc.json`](.stylelintrc.json) to the root directory of your project.
 
+#### For Sass
+If you prefer to work with SCSS files, you need to perform a few modifications to the linter configuration files:
+  - In the file `linters.yml` [line 48](.github/workflows/linters.yml) replace `"**/*.{css,scss}"` with `"**/*.scss"`
+  - Use `npx stylelint "**/*.scss"` to lint you SCSS files and not the generated CSS
+
 ### Cloning the repo to your local system (If you already have git, installed in your system):
 
 - [Copy this link](https://vagyasri.github.io/Events-Directory/)
