@@ -66,7 +66,7 @@
 
 #### For Sass
 If you prefer to work with SCSS files, you need to perform a few modifications to the linter configuration files:
-  - In the file `linters.yml` [line 48](.github/workflows/linters.yml) replace `"**/*.{css,scss}"` with `"**/*.scss"`
+  - In the file `linters.yml` [line 48](https://github.com/Vagyasri/HTML-CSS-template/blob/main/.github/workflows/linters.yml#L48) replace `"**/*.{css,scss}"` with `"**/*.scss"`
   - Use `npx stylelint "**/*.scss"` to lint you SCSS files and not the generated CSS
 
 ### Cloning the repo to your local system (If you already have git, installed in your system):
