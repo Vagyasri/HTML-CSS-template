@@ -8,7 +8,6 @@
 
 ### Mobile
 
-
 ![Mobile The Next Web](mobile-art.png)
 
 ### Desktop
@@ -51,9 +50,9 @@
 
 ### Check linter errors:
 
-- Install npm
-- For HTML: Run npx hint .
-- For CSS: Run npx stylelint “**/*.css”
+- Install npm: `npm install`
+- For HTML: Run `npx hint .`
+- For CSS: Run `npx stylelint “**/*.css”`
 
 ## 🤝 Contributing
 
