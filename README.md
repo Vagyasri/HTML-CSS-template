@@ -32,7 +32,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/Vagyasri/HTML-CSS-template.git)
+[Live Demo Link](https://vagyasri.github.io/HTML-CSS-template/)
 
 ## Author
 
