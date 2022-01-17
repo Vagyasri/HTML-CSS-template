@@ -1,6 +1,6 @@
 # HTML-CSS Template
 
-> I am creating this HTML-CSS template for my future projects.
+> I am creating this HTML-CSS template for future reference.
 > Also, this is containing steps of basic linter setup.
 > - The `Screenshot`, `Built With`, `Acknowledgments` and some of the other sections are just the format for this template.
 
@@ -80,8 +80,12 @@ If you prefer to work with SCSS files, you need to perform a few modifications t
 ### Check linter errors:
 
 - Install npm: `npm install`
-- For HTML: Run `npx hint .`
-- For CSS: Run `npx stylelint "**/*.{css,scss}"`
+- For Webhint/HTML: Run `npx hint .`
+- For Stylelint/CSS: Run `npx stylelint "**/*.{css,scss}"`
+
+### Auto-fix linter errors:
+- For Stylelint(terminal): Run `npx stylelint --fix style.css`
+- For Stylelint(vscode): Press `CMD+Shift+P` and select `Stylelint: Fix all auto-fixable Problems`
 
 ## 🤝 Contributing
 
