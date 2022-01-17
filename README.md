@@ -32,7 +32,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://vagyasri.github.io/HTML-CSS-template/)
+[Live Demo Link](https://github.com/Vagyasri/HTML-CSS-template.git)
 
 ## Author
 
@@ -81,9 +81,9 @@ If you prefer to work with SCSS files, you need to perform a few modifications t
 
 ### Cloning the repo to your local system (If you already have git, installed in your system):
 
-- [Copy this link](https://vagyasri.github.io/HTML-CSS-template/)
+- [Copy this link](https://github.com/Vagyasri/HTML-CSS-template.git)
 - Open your terminal or command line
-- Run "git clone [Paste this link](https://vagyasri.github.io/HTML-CSS-template/)"
+- Run "git clone [Paste this link](https://github.com/Vagyasri/HTML-CSS-template.git)"
 - Open the folder with your code editor
 - Now You can edit the code and check the changes in the browser using Live Server
 
