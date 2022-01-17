@@ -59,6 +59,11 @@
 - Run `npm install --save-dev hint@6.x`
 - Copy [`.hintrc`](.hintrc) to the root directory of your project.
 
+#### Stylelint
+
+- Run `npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x`
+- Copy [`.stylelintrc.json`](.stylelintrc.json) to the root directory of your project.
+
 ### Cloning the repo to your local system (If you already have git, installed in your system):
 
 - [Copy this link](https://vagyasri.github.io/Events-Directory/)
@@ -71,7 +76,7 @@
 
 - Install npm: `npm install`
 - For HTML: Run `npx hint .`
-- For CSS: Run `npx stylelint “**/*.css”`
+- For CSS: Run `npx stylelint "**/*.{css,scss}"`
 
 ## 🤝 Contributing
 
