@@ -1,11 +1,8 @@
-# Project3-newsweek
+# HTML-CSS Template
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-> This is a Website for Events-Directory consisting of 3 interlinked webpages.
->- the main page (search page), with a link to the results page
->- the search results page, with a list of Events each with a link to the Event details page
->- Event details page
+> I am creating this HTML-CSS template for my future projects.
+> Also, this is containing steps of basic linter setup.
+> - The `Screenshot`, `Built With`, `Acknowledgments` and some of the other sections are just the format for this template.
 
 # Screenshot
 
@@ -28,21 +25,13 @@
 
 [Live Demo Link](https://vagyasri.github.io/Project3-newsweek/)
 
-## Author 1
+## Author
 
 👤 **Bhagyashree Patra**
 
 - GitHub: [@Vagyasri](https://github.com/Vagyasri)
 - Twitter: [@Vagyasri](https://twitter.com/Vagyasri)
 - LinkedIn: [Bhagyashree Patra](https://www.linkedin.com/in/bhagyashree-patra-029bb059/)
-
-## Author 2
-
-👤 **Bhagyashree Patra**
-
-- GitHub: [@githubhandle](https://github.com/Vagyasri)
-- Twitter: [@twitterhandle](https://twitter.com/Lucky86074644)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhagyashree-patra-029bb059/)
 
 ## Getting Started
 
