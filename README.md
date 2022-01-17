@@ -40,6 +40,13 @@
 - Code Editor
 - Live Server Extension
 
+### Linter Setup:
+
+#### Set-up GitHub Actions
+
+- Create a `.github/workflows` folder and add a copy of [`.github/workflows/linters.yml`](.github/workflows/linters.yml) to that folder.
+- 
+
 ### Cloning the repo to your local system (If you already have git, installed in your system):
 
 - [Copy this link](https://vagyasri.github.io/Events-Directory/)
