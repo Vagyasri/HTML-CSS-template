@@ -3,6 +3,16 @@
 > I am creating this HTML-CSS template for future reference.
 > Also, this is containing steps of basic linter setup.
 > - The `Screenshot`, `Built With`, `Acknowledgments` and some of the other sections are just the format for this template.
+> - You can simply modify the following sections:
+    1. Heading
+    2. Description
+    3. Screenshot
+    4. Name of the Project everywhere
+    5. Built with
+> - Remove:
+    7. Linter Setup
+    8. Auto-fix linter errors
+    9. Acknowledgments (if not required)
 
 # Screenshot
 
@@ -84,6 +94,7 @@ If you prefer to work with SCSS files, you need to perform a few modifications t
 - For Stylelint/CSS: Run `npx stylelint "**/*.{css,scss}"`
 
 ### Auto-fix linter errors:
+
 - For Stylelint(terminal): Run `npx stylelint --fix style.css`
 - For Stylelint(vscode): Press `CMD+Shift+P` and select `Stylelint: Fix all auto-fixable Problems`
 
@@ -98,7 +109,7 @@ Start by:
 - cd into the project directory
 - Run `git checkout -b your-branch-name`
 - Make your contributions
-- Push your branch up to your forked repository: `Run git push -u origin your-branch-name`
+- Push your branch up to your forked repository: Run `git push -u origin your-branch-name`
 - Open a Pull Request with a detailed description to the development branch of the original project for a review
 
 Feel free to check the [issues page](https://github.com/Vagyasri/HTML-CSS-template), contribute to the Project by creating an issue.
