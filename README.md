@@ -95,10 +95,10 @@ Start by:
 
 - Forking the project
 - Cloning the project to your local machine
-- cd into the Youtube-Replica project directory
-- Run git checkout -b your-branch-name
+- cd into the project directory
+- Run `git checkout -b your-branch-name`
 - Make your contributions
-- Push your branch up to your forked repository
+- Push your branch up to your forked repository: `Run git push -u origin your-branch-name`
 - Open a Pull Request with a detailed description to the development branch of the original project for a review
 
 Feel free to check the [issues page](https://github.com/Vagyasri/HTML-CSS-template), contribute to the Project by creating an issue.
