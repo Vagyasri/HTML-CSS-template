@@ -45,7 +45,19 @@
 #### Set-up GitHub Actions
 
 - Create a `.github/workflows` folder and add a copy of [`.github/workflows/linters.yml`](.github/workflows/linters.yml) to that folder.
-- 
+
+#### Set-up linters in your local env
+
+- The npm package manager is going to create a `node_modules` directory to install all of your dependencies. You shouldn't commit that directory. To avoid that, you can create a `.gitignore` file and add `node_modules` to it as below:
+
+    ```
+    node_modules/
+    ```
+
+#### Webhint
+
+- Run `npm install --save-dev hint@6.x`
+- Copy [`.hintrc`](.hintrc) to the root directory of your project.
 
 ### Cloning the repo to your local system (If you already have git, installed in your system):
 
